@@ -1,2 +1,1 @@
-tdc
-1 mà thôi
+main và 1
